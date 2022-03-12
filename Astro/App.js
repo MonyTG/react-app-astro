@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Project Astro!</Text>
+      <Text>Version - 1.00</Text>
       <StatusBar style="auto" />
     </View>
   );
